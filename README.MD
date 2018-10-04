@@ -4,7 +4,7 @@ Dynamically creates a GUI for any Python function using the Tkinter module.
 
 ## Menu
 
-![menu]((https://i.imgur.com/A1VSpGF.jpg)
+![menu](https://i.imgur.com/A1VSpGF.jpg)
 
 ## Example Function
 
